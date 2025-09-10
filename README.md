@@ -21,8 +21,8 @@ Este projeto visa oferecer uma solução inteligente e intuitiva para acompanhar
 - Gabriel Henrique (Product Owner (P.O.))
 - Diogo Felipe (Desenvolvedor)
 - Leandro Manuel (Desenvolvedor)
-- Jõao pedro (Desenvolvedor)
 - Sérgio Gonçalves (Desenvolvedor)
+- Jõao pedro (Banco de Dados)
 
 ---
 
